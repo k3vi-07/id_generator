@@ -40,5 +40,5 @@
 3、生成指定数量
 
 
-
-[√]: 参考代码地址: https://github.com/jayknoxqu/id-number-util
+在原代码的基础上增加了批量生成的功能
+原始代码地址: https://github.com/jayknoxqu/id-number-util
